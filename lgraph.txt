@@ -1,0 +1,10 @@
+alice poppy,jack,mark,rose,hunterlew poppy,judy,mark,john,hunterlew
+poppy alice,judy,bob alice,jack
+jane judy,john,hunterlew jack,mark,bob
+judy alice,rose poppy,jane,rose,bob
+jack poppy,jane,mark,bob,hunterlew alice
+mark alice,jane,john alice,jack
+rose judy,hunterlew alice,judy,bob
+bob jane,judy,rose poppy,jack,hunterlew
+john alice,hunterlew jane,mark
+hunterlew alice,bob alice,jane,jack,rose,john
